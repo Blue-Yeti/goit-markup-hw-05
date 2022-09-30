@@ -514,7 +514,7 @@ margin-right: 93px;
 }
 
 .portfolio-section-one__button{
-    background-color: var(--clr-white);
+    background-color: var(--btn-bg);
     color: var(--clr-primary);
     font-family: 'Roboto';
     font-style: normal;
