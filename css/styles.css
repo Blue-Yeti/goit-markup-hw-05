@@ -564,6 +564,8 @@ margin-right: 93px;
     display: block;
     text-decoration: none;
     color: var(--clr-paragraph-primary);
+
+    transition: box-shadow 250ms var(--main-transition);
 }
 
 .portfolio-section-one__link:visited{
